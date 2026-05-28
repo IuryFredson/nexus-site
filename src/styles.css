@@ -455,11 +455,43 @@ h2 {
   font-weight: 950;
 }
 
-.about-grid > p {
+.about-content {
+  display: grid;
+  gap: 18px;
+}
+
+.about-content > p {
   margin: 0;
   color: #d7dee9;
   font-size: 1.08rem;
   line-height: 1.85;
+}
+
+.about-principles {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 8px;
+}
+
+.about-principles article {
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.055);
+  padding: 18px;
+}
+
+.about-principles h3 {
+  margin: 0 0 8px;
+  font-size: 1rem;
+  font-weight: 900;
+}
+
+.about-principles p {
+  margin: 0;
+  color: #cbd5e1;
+  font-size: 0.94rem;
+  line-height: 1.65;
 }
 
 .tracks-section {
@@ -697,7 +729,8 @@ h2 {
     padding-top: 56px;
   }
 
-  .tracks-grid {
+  .tracks-grid,
+  .about-principles {
     grid-template-columns: 1fr;
   }
 

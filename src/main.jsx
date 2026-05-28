@@ -209,11 +209,32 @@ function NexusLandingPage() {
             <p className="section-kicker">Sobre</p>
             <h2>Um ponto de encontro para quem quer construir.</h2>
           </div>
-          <p>
-            A proposta do NEXUS é aproximar alunos, professores e profissionais em torno de
-            temas práticos da computação, criando uma ponte entre teoria, mercado, pesquisa e
-            comunidade.
-          </p>
+          <div className="about-content">
+            <p>
+              O NEXUS é o Núcleo de Engenharia, eXperiência e Sistemas: uma comunidade
+              técnica nascida no IMD/UFRN para explorar fundamentos da computação, discutir
+              tecnologia em profundidade e construir software real.
+            </p>
+            <p>
+              Mais do que acompanhar ferramentas ou tendências, o NEXUS busca entender os
+              princípios por trás dos sistemas: arquitetura, infraestrutura, dados, segurança,
+              inteligência artificial, métodos formais e engenharia de software.
+            </p>
+            <div className="about-principles">
+              <article>
+                <h3>Fundamentos</h3>
+                <p>Conceitos que atravessam tecnologias: sistemas operacionais, redes, bancos de dados, concorrência, arquitetura e teoria da computação.</p>
+              </article>
+              <article>
+                <h3>Engenharia</h3>
+                <p>Discussões sobre trade-offs, evolução de software, qualidade, DevOps, observabilidade e construção de sistemas sustentáveis.</p>
+              </article>
+              <article>
+                <h3>Construção real</h3>
+                <p>Estudo transformado em projetos, experimentos, workshops e materiais para aprender fazendo.</p>
+              </article>
+            </div>
+          </div>
         </div>
       </section>
 
