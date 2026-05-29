@@ -277,7 +277,7 @@ function NexusLandingPage() {
                 <span>Aberto com inscrição</span>
               </div>
               <h3>Machine Learning: fundamentos, aplicações e o cenário atual da IA</h3>
-              <p className="guest-speaker">Professor convidado: em confirmação</p>
+              <p className="guest-speaker">Professor convidado: Tibério Azevedo Pereira (IMD/UFRN)</p>
               <div className="talk-meta">
                 <span>
                   <MapPin size={16} /> <strong>Local</strong> Sala A102, IMD/UFRN
