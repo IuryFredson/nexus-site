@@ -30,7 +30,7 @@ a {
   overflow: hidden;
   background:
     linear-gradient(135deg, rgba(13, 19, 29, 0.92), rgba(12, 28, 34, 0.86)),
-    url("https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1800&q=80")
+    url("/hero-bg.jpg")
       center / cover fixed;
 }
 
