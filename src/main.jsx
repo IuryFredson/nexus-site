@@ -286,7 +286,7 @@ function NexusLandingPage() {
                   <Clock size={16} /> <strong>Data</strong> 11/06, quinta-feira, 16:40 - 18:20 (5T56)
                 </span>
               </div>
-              <a className="button button-dark" href="https://docs.google.com/forms/d/e/1FAIpQLSeqH6AmyvRv7mTYbf12GWXviUjam5iDlG1HpK6tK6hjgKOhyg/viewform?usp=dialog" target="_blank" rel="noreferrer">
+              <a className="button button-dark" href="https://docs.google.com/forms/d/e/1FAIpQLSf1w_Og0QU5VeJuUPoQnS5dUglQHiC5HBkRkx3gOaqHBPIKag/viewform?usp=dialog" target="_blank" rel="noreferrer">
                 Quero participar
               </a>
             </article>
