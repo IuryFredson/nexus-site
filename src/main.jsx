@@ -188,11 +188,11 @@ function NexusLandingPage() {
             <div className="event-list">
               <article className="event-card event-card-featured">
                 <div>Próximo encontro</div>
-                <p>Machine Learning: fundamentos, aplicações e o cenário atual da IA</p>
+                <p>Kubernetes sem sofrimento: introdução à orquestração</p>
               </article>
               <article className="event-card">
                 <div>Quando</div>
-                <p>11/06, quinta-feira, 16:40 - 18:20 (5T56)</p>
+                <p>18/06, quinta-feira, 16:40 - 18:20 (5T56)</p>
               </article>
               <article className="event-card">
                 <div>Onde</div>
@@ -276,17 +276,17 @@ function NexusLandingPage() {
                 <p>Encontro da semana</p>
                 <span>Aberto com inscrição</span>
               </div>
-              <h3>Machine Learning: fundamentos, aplicações e o cenário atual da IA</h3>
-              <p className="guest-speaker">Professor convidado: Tibério Azevedo Pereira (IMD/UFRN)</p>
+              <h3>Kubernetes sem sofrimento: introdução à orquestração</h3>
+              <p className="guest-speaker">Professor convidado: Prof. Dr. Gustavo Bezerra Paz Leitão</p>
               <div className="talk-meta">
                 <span>
                   <MapPin size={16} /> <strong>Local</strong> Sala A102, IMD/UFRN
                 </span>
                 <span>
-                  <Clock size={16} /> <strong>Data</strong> 11/06, quinta-feira, 16:40 - 18:20 (5T56)
+                  <Clock size={16} /> <strong>Data</strong> 18/06, quinta-feira, 16:40 - 18:20 (5T56)
                 </span>
               </div>
-              <a className="button button-dark" href="https://docs.google.com/forms/d/e/1FAIpQLSf1w_Og0QU5VeJuUPoQnS5dUglQHiC5HBkRkx3gOaqHBPIKag/viewform?usp=dialog" target="_blank" rel="noreferrer">
+              <a className="button button-dark" href="https://docs.google.com/forms/d/e/1FAIpQLScuUzEBSKetAp4prcnRDIbgWh9B5WEHVy0O8bwHGjX3lxvuBA/viewform?usp=dialog" target="_blank" rel="noreferrer">
                 Quero participar
               </a>
             </article>
